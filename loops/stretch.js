@@ -9,13 +9,8 @@ var item = [{
 }];
 
 function showItems(array) {
-  for (var i = 0; i < array.length; i++) {
-    if (array[i].price <= 900) {
-      console.log(array[i]);
-    } else {
-      console.log('That is too expensive');
-    }
-  };
+//write your loop and conditional statement here
+
 };
 
 showItems(item)
