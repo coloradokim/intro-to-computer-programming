@@ -5,13 +5,13 @@ _By the end of this workshop, you will be able to:_
 1. Explain conditional statements
 1. Write conditional statements in JavaScript
 ```js
-===
->
-<
->=
+===,
+>,
+<,
+>=,
 <=
 ```
-1. Create a JavaScript program that evaluates values using conditional statements
+3. Create a JavaScript program that evaluates values using conditional statements
 
 ## Part II: Loops
 1. Create a JavaScript program that uses a for-loop to display a list of items
